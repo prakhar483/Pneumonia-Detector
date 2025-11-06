@@ -28,10 +28,10 @@ It uses deep learning techniques for image-based diagnosis and an interactive UI
 
 ## 📂 Repository Structure  
 
-├── 📘 CNN_Project_1_on_Chest_Xray_Pneumonia_Detection.ipynb # Model training & evaluation notebook
-├── 💻 Chest_xray_app.py # Streamlit app frontend
-├── 🖼️ chest_app_sample_image.jpg # Sample chest X-ray image
-└── 📄 README.md # Project documentation
+- ├── 📘 CNN_Project_1_on_Chest_Xray_Pneumonia_Detection.ipynb # Model training & evaluation notebook
+- ├── 💻 Chest_xray_app.py # Streamlit app frontend
+- ├── 🖼️ chest_app_sample_image.jpg # Sample chest X-ray image
+- └── 📄 README.md # Project documentation
 
 
 > ⚠️ **Note:** The trained model file (`.h5` or `.pkl`) is not uploaded to GitHub because it exceeds the 25MB size limit.  
